@@ -1,0 +1,14 @@
+db-sql:
+  image: my-mysql
+  ports:
+      - "3306:3306"
+  environment:
+      MYSQL_ROOT_PASSWORD: supersecret
+  volumes:
+      - dbdata:/var/lib/mysql
+comment-app:
+  image: comment-app
+  ports:
+    - 5000:81
+  links:
+    - db-sql
