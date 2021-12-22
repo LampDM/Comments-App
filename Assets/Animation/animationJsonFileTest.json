@@ -1,0 +1,24 @@
+{
+  "AnimationClips": [
+    {
+      "clipname": "Skateboard|SkateboardAction",
+      "animated_parts": [ "Skateboard" ],
+      "instruction": "Lol are u really gonna do this?"
+    },
+    {
+      "clipname": "Wheel|WheelAction",
+      "animated_parts": [ "Wheel" ],
+      "instruction": "you're kinda sus"
+    },
+    {
+      "clipname": "Abovewheel|AbovewheelAction",
+      "animated_parts": [ "Abovewheel" ],
+      "instruction": "no I can scan pls no kick"
+    },
+	{
+      "clipname": "A1|A1Action",
+      "animated_parts": [ "" ],
+      "instruction": "ok if u kick me"
+    }
+  ]
+}

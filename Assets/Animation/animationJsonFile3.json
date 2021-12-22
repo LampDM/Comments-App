@@ -1,0 +1,84 @@
+{
+  "AnimationClips": [
+    {
+      "clipname": "CLIP1",
+      "animated_parts": [ "" ],
+      "instruction": "Welcome to WP3! Please <b><u>read the following tips</b></u> on how to proceed:\n-To <b><u>interact</b></u> with the system <b><u>say</b></u> the words 'NEXT', 'PREVIOUS' or 'PLAY'\n-<b><u>PLAY</b></u> plays the current step of the assembly process\n-<b><u>NEXT</b></u> moves the guidance system to the next step of the assembly process\n-<b><u>PREVIOUS</b></u> switches to the previous step of the assembly process\n-Be sure to <b><u>always read</b></u> the given instructions (which will appear here) before attempting the assembly of the next step.\n-Please <b><u>handle the parts carefully</b></u> and never use too much force or risk breaking a crucial component!\n-The parts that you will need will be marked by a <b><u>purple box</b></u> in the environment!\n-When ready to start please say <b><u>NEXT!</b></u>"
+    },
+    {
+      "clipname": "CLIP2",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item A: Steering Tube</b></u> with left hand and <b><u>Item 5: Head tube Clamp</b></u> with righthand.\n2. Slide the clamp over the end of the head tube.\n Attention: with the label facing UP, the clamp goes on the end with the „i“ from industry. The bolt heads face outwards.\n3. Grab the steering tube with the left hand and push onto the threaded part of the fork and hold the wheel and fork with the right hand.\n4. Push and twist until flush with M24 nut."
+    },
+    {
+      "clipname": "CLIP3",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item B: M6x30 Capscrew</b></u> with right hand and place into hole of headtube clamp.\n2. Hold headtube with left hand.\n3. Grab drill with right hand and drive the capscrews until the drill clicks.\n4. Place drill back into storage position."
+    },
+    {
+      "clipname": "CLIP4",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item 7: T-Bar</b></u> with the left hand."
+    },
+	{
+      "clipname": "CLIP5",
+      "animated_parts": [ "" ],
+      "instruction": "1. Grab <b><u>Item 4: T-Bar Bushing-Plastic</b></u> with right hand.\n2. Push in the button of the T-Bar with right hand and slide on the T-Bar bushing while holding the T-Bar with the left hand.\n Attention: ensure that T-Bar bushing's slot (the long hole on one side) is aligned with opposite side of the button."
+    },
+	{
+      "clipname": "CLIP6",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item 3: Button Cover-Plastic</b></u> with right hand.\n2. Push in the button of the T-Bar with right hand and slide on the button cover until the button clicks into the hole of the button cover.\n3. Hold the T-Bar with the left hand.\n4. Push in the button of the T-Bar with right hand and slide the button past the button while holding the T-Bar with the left hand."
+    },
+	{
+      "clipname": "CLIP7",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item 2: T-Bar Cap–Plastic</b></u> with right hand and slide into the end of the T-Bar so the holes align."
+    },
+	{
+      "clipname": "CLIP8",
+      "animated_parts": [ "" ],
+      "instruction": "1. With right hand, insert the smooth end of the <b><u>Item G: Ø5x22 DowellPin</b></u> into the hole in the end of the TBar."
+    },
+	{
+      "clipname": "CLIP9",
+      "animated_parts": [ "" ],
+      "instruction": "1. Hold T-Bar with left hand.\n2. Push in the button and slide button cover back onto button with the right hand.\n3. With the right hand, slide the bushing up against the button cover while holding T-Bar with left hand."
+    },
+	{
+      "clipname": "CLIP10",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item 1: Skewer Clip</b></u> with right hand and place over the end of the T-Bar.\nAttention: Align Item 1: Skewer Clip as shown in the animation with the curved side looking towards you."
+    },
+	{
+      "clipname": "CLIP11",
+      "animated_parts": [ "" ],
+      "instruction": "1. Hold T-Bar with left hand and push the end into the head tube.\n2. Label on headtube is to be facing upward.\n3. hold the head tube with the right hand and push in the button with the thumb until the T-Bar is pushed in past the 3rd hole in the head tube."
+    },
+    {
+      "clipname": "CLIP12",
+      "animated_parts": [ "" ],
+      "instruction": "1. Slide the skewer clip into the head tube untill it connects with the slot on the non label side of the head tube.\n2. Slide the T-bar bushing the same way once the skewer clip is firmly attached to the headtube."
+    },
+    {
+      "clipname": "CLIP13",
+      "animated_parts": [ "" ],
+      "instruction": "1. Rotate the headtube so the label and holes are facing downward (Not show in animation).\n2. <b><u>Grab Item F: M2.5x5 Setscrew</b></u> with right hand and insert into hole in skewer clip.\n3. Hand tighten the setscrew.\n4. <b><u>Grab M2.5 allen wrench</b></u> and tighten the setscrew with right hand and hold the TBar with left hand.\n5. Place M2.5 allen wrench back into storage position.\n6. Rotate the headtube so that the label and holes are facing up."
+    },
+    {
+      "clipname": "CLIP14",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item C: M5x32 SkewerBolt</b></u> with left hand and insert into hole of skewerclip with the flat side (not the curved side).\n2. <b><u>Grab Item E: SkewerWasher-Plastic</b></u> with right hand and place over the end of the skewer bolt."
+    },
+    {
+      "clipname": "CLIP15",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item 6: Skewer Handle</b></u> with right hand and <b><u>Item D: M5 Skewer Nut</b></u> with left hand.\n2. Hold end of skewer handle with left hand and insert the nut into the hole of the handle. \n3. Grab the skewer and nut with the thumb and index finger of the right hand\n4. Align the nut with the skewer bolt with the right hand and tighten the skewer bolt with the left hand. \nAttention: The best position to align the nut and bolt is with the handle as showed in the animation.\n5. Rotate handle into the closed position with the right hand."
+    },
+    {
+      "clipname": "CLIP16",
+      "animated_parts": [ "" ],
+      "instruction": "Station 3 assembly complete"
+    }
+  ]
+}

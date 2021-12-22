@@ -1,0 +1,119 @@
+{
+  "AnimationClips": [
+    {
+      "clipname": "STEP0",
+      "animated_parts": [ "" ],
+      "instruction": "Welcome to WP1! Please <b><u>read the following tips</b></u> on how to proceed:\n-To <b><u>interact</b></u> with the system click NEXT,PLAY and PREVIOUS\n-Alternatively <b><u>say</b></u> the words 'NEXT', 'PREVIOUS' or 'PLAY'\n-<b><u>PLAY</b></u> plays the current step of the assembly process\n-<b><u>NEXT</b></u> moves the guidance system to the next step of the assembly process\n-<b><u>PREVIOUS</b></u> switches to the previous step of the assembly process\n-Be sure to <b><u>always read</b></u> the given instructions (which will appear here) before attempting the assembly of the next step.\n-Please <b><u>handle the parts carefully</b></u> and never use too much force or risk breaking a crucial component!\n-When ready to start please click or say <b><u>NEXT!</b></u>"
+    },
+    {
+      "clipname": "STEP1",
+      "animated_parts": [ "Item7" ],
+      "instruction": "1. Grab <b><u>Item 7: Front Fork Assembly</u></b> with right hand\n2. Insert into fixture and align slot in fork with bolt in fixture"
+    },
+    {
+      "clipname": "STEP2",
+      "animated_parts": [ "Item1" ],
+      "instruction": "1. Grab <b><u>Item 1: Front Fender</u></b> with left hand\n2. Slide the Front Fender into Front Fork Assembly\n\n<u><b>ATTENTION:</u></b>\ntabs have to be over frame of Front Fork Assembly"
+    },
+    {
+      "clipname": "STEP3",
+      "animated_parts": [ "Item1" ],
+      "instruction": "1. Align 2x holes in fender with 2x holes in fork"
+    },
+    {
+      "clipname": "STEP4",
+      "animated_parts": [ "ItemC01", "ItemC02" ],
+      "instruction": "1. Grab philips screwdriver with right hand\n2. Grab <u><b>Item C: M5x6 Philips Head Capscrew</u></b> with left hand\n3. Put screw into hole with left hand\n4. Attach screw using right hand while holding fender with left hand\n5. Attach 2<sup>nd</sup> screw with same procedure\n6. Put screwdriver back into storage position"
+    },
+    {
+      "clipname": "STEP5",
+      "animated_parts": [ "Item6B" ],
+      "instruction": "1. Grab <u><b>Item 6B: Std Wheel(Black) - 230mm</u></b> with right hand\n2. Place wheel into front fork\n\n<u><b>ATTENTION</u></b>\nText must be facing towards you"
+    },
+    {
+      "clipname": "STEP6",
+      "animated_parts": [ "ItemA" ],
+      "instruction": "1. Grab punch with right hand\n2. Slide punch through front side hole in fork and into hole in wheel\n3. Grab <u><b>Item A: 6x40 Shoulder Bolt</u></b> with left hand\n4. Slide shoulder bolt through back-side hole in fork and into hole in wheel\n5. Align bearing to shoulder bolt using punch in right hand while pushing bolt into fork using left hand"
+    },
+    {
+      "clipname": "STEP7",
+      "animated_parts": [ "ItemA" ],
+      "instruction": "1. Align second bearing to shoulder bolt using punch in right hand while pushing bolt into fork using left hand\n2. When bolt is through the wheel bearing, put punch back into storage position with right hand"
+    },
+    {
+      "clipname": "STEP8",
+      "animated_parts": [ "ItemB" ],
+      "instruction": "1. Grab <u><b>Item B: M6x12 Capscrew</u></b> with left hand\n2. Grab drill with right hand\n3. Insert capscrew into drill bit with left hand while holding drill with right hand\n4. Insert capscrew into front side of hole in fork with right hand while holding shoulder bolt with left hand\n5. Attach screw using drill until capscrew is tight and drill clicks\n6. Place drill back into storage position with right hand"
+    },
+    {
+      "clipname": "STEP9",
+      "animated_parts": [ "Item7", "Item1", "ItemC01", "ItemC02", "Item6B", "ItemA", "ItemB" ],
+      "instruction": "1. Grab front fork with right hand and reposition into fixture with wheel facing down and guide with left hand\n\n<u><b>ATTENTION:</u></b>\nText on wheel must be facing left hand side"
+    },
+    {
+      "clipname": "STEP10",
+      "animated_parts": [ "ItemD02" ],
+      "instruction": "1. Grab <u><b>Item D: Caged Ball Bearing</u></b> with left hand\n2. Slide onto shaft of front fork using left hand\n\n <u><b>ATTENTION:</u></b>\nCage of Bearing must be facing UP"
+    },
+    {
+      "clipname": "STEP11",
+      "animated_parts": [ "Item4" ],
+      "instruction": "1. Grab <u><b>Item 4: Headtube</u></b> with right hand\n2. Place headtube onto shaft of front fork with right hand\n3. Align headtube with left hand so the end faces the left hand side"
+    },
+    {
+      "clipname": "STEP12",
+      "animated_parts": [ "ItemD01" ],
+      "instruction": "1. Grab <u><b>Item D: Caged Ball Bearing</u></b> with right hand\n2. Slide onto shaft of front fork using right hand\nhold headtube with left hand\n\n<u><b>ATTENTION:</u></b>\nCage of Bearing must be facing DOWN"
+    },
+    {
+      "clipname": "STEP13",
+      "animated_parts": [ "Item3" ],
+      "instruction": "1. Grab <u><b>Item 3: M24 Headset Nut</u></b> with right hand\n2. Screw down headset nut to a snug fit with right hand"
+    },
+    {
+      "clipname": "STEP14",
+      "animated_parts": [ "ItemI" ],
+      "instruction": "1. Grab <u><b>Item I: M24 Nut</u></b> with right hand\n2. Tighten headset assembly to a snug fit with right hand"
+    },
+    {
+      "clipname": "STEP15",
+      "animated_parts": [ "" ],
+      "instruction": "This step requires tools - no animation will be played\n\n1. Grab 36mm wrench with right hand\n2. Grab 36mm wrench with left hand\nlock the nuts together by holding headset nut in position with left hand\ntighten M24 nut with right hand\n3. Place both 36mm wrenches into storage position"
+    },
+    {
+      "clipname": "STEP16",
+      "animated_parts": [ "ItemH", "Item2" ],
+      "instruction": "1. Grab <u><b>Item 2: Slide Cylinder</u></b> with left hand\n2. Grab <u><b>Item H: Spring-8x45</u></b> and place it into the slide cylinder"
+    },
+    {
+      "clipname": "STEP17",
+      "animated_parts": [ "ItemH", "Item2" ],
+      "instruction": "1. Insert slide cylinder with spring into headtube with left hand while holding headtube with right hand\n\n<u><b>ATTENTION:</u></b>\nHole in slide cylinder must be aligned with slot in headtube"
+    },
+    {
+      "clipname": "STEP18",
+      "animated_parts": [ "Item5" ],
+      "instruction": "1. Hold slide cylinder in headtube with right hand\n2. Grab <u><b>Item 5: Slide Bracket</u></b> with left hand\n3. Insert slide bracket into headtube with left hand"
+    },
+    {
+      "clipname": "STEP19",
+      "animated_parts": [ "" ],
+      "instruction": "1. Rotate headtube clockwise with right hand while positioning slide bracket onto fixture with left hand"
+    },
+    {
+      "clipname": "STEP20",
+      "animated_parts": [ "ItemF01", "ItemE", "ItemF02", "ItemG" ],
+      "instruction": "1. Grab <u><b>Item E: M8x52</u></b> Bolt with left hand\n2. Grab <u><b>Item F: Flat Washer</u></b> with right hand\n3. Place washer onto bolt with right hand\nslide bolt into hole in headtube with left hand\n4. Grab <u><b>Item F: Flat Washer</u></b> with left hand\n5. Place washer onto backside of with left hand\n6. Grab <u><b>Item G: M8 Lock Nut</u></b> with left hand\n7. Hand tighten lock nut onto Bolt with left hand\n8. Release left hand and right hand"
+    },
+    {
+      "clipname": "STEP21",
+      "animated_parts": [ "" ],
+      "instruction": "This step requires tools - no animation will be played\n\n1. Grab 13mm wrench with left hand\n2. Place onto nut on backside and hold in position\n3. Grab drill with right hand\n4. Insert drill bit into front side of bolt using right hand\n5. Tighten bolt using drill until it clicks using right hand while holding nut with wrench with left hand\n6. Place wrench and drill back into storage positions"
+    },
+    {
+      "clipname": "STEP22",
+      "animated_parts": [ "" ],
+      "instruction": "Station 1 assembly complete"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "AnimationClips": [
+    {
+      "clipname": "CLIP1",
+      "animated_parts": [ "" ],
+      "instruction": "Welcome to WP2! Please <b><u>read the following tips</b></u> on how to proceed:\n-To <b><u>interact</b></u> with the system <b><u>say</b></u> the words 'NEXT', 'PREVIOUS' or 'PLAY'\n-<b><u>PLAY</b></u> plays the current step of the assembly process\n-<b><u>NEXT</b></u> moves the guidance system to the next step of the assembly process\n-<b><u>PREVIOUS</b></u> switches to the previous step of the assembly process\n-Be sure to <b><u>always read</b></u> the given instructions (which will appear here) before attempting the assembly of the next step.\n-Please <b><u>handle the parts carefully</b></u> and never use too much force or risk breaking a crucial component!\n-The parts that you will need will be marked by a <b><u>purple box</b></u> in the environment!\n-When ready to start please say <b><u>NEXT!</b></u>"
+    },
+    {
+      "clipname": "CLIP2",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item 1: Frame</b></u> with left hand and place into fixture. Slot for wheel is on left side and black side is down."
+    },
+    {
+      "clipname": "CLIP3",
+      "animated_parts": [ "" ],
+      "instruction": "1. Grab <b><u>Item C: Brake Bolt</b></u> with right hand and insert it into the hole."
+    },
+    {
+      "clipname": "CLIP4",
+      "animated_parts": [ "" ],
+      "instruction": "1. Grab <b><u>Item 2: Rear Brake</b></u> with left hand and position in place."
+    },
+    {
+      "clipname": "CLIP5",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item 3: Brake Spring</b></u> with right hand while holding brake and bolt in position. Position the spring in place with right hand."
+    },
+    {
+      "clipname": "CLIP6",
+      "animated_parts": [ "" ],
+      "instruction": "1. Push the bolt with the index finger of the hand while holding the spring with the thumb of the left hand.\n2. Guide the bolt through the spring and into the front side holes in the brake using the punch in the right hand.\n3. When bolt is through all the holes, place the punch back into storage position."
+    },
+    {
+      "clipname": "CLIP7",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab 4mm allen wrench</b></u> with left hand and <b><u>Item D: M5 Lock Nut</b></u> with right hand.\n2. Insert 4mm allen wrench into bolt with left hand and hold in place.\n3. Put lock nut onto bolt with right hand and hand tighten.\n4. Grab 8mm wrench with right hand and tighten nut until end of the bolt is flush with front of nut."
+    },
+    {
+      "clipname": "CLIP8",
+      "animated_parts": [ "" ],
+      "instruction": "1. Put into vertical position in fixture using both hands. Align holes with bolt heads in fixture."
+    },
+    {
+      "clipname": "CLIP9",
+      "animated_parts": [ "" ],
+      "instruction": "1. Grab finished assembly from station 1 with both hands. Place into fixture by aligning to 3 parts of the fixture."
+    },
+	{
+      "clipname": "CLIP10",
+      "animated_parts": [ "" ],
+      "instruction": "1. Align the 3 bolt holes in the slide bracket with the 3 holes in the frame.\n2.<b><u>Grab Item 4: Frame Plate</b></u> with Right Hand and place into position in front of the 3 holes in the frame."
+    },
+	{
+      "clipname": "CLIP11",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item A: M8x25 Capscrew</b></u> with right hand and <b><u>Item B: M8 Lock Washer</b></u> with left hand. Slide lock washer onto bolt. Repeat two times so you have three bolts with lock washers.\n2. Insert the M8 Capscrew into the far left hole with left hand and hand tighten while holding frame plate in place."
+    },
+	{
+      "clipname": "CLIP12",
+      "animated_parts": [ "" ],
+      "instruction": "1. Repeat for the other two holes. \n2. Grab drill with right hand and insert into the far right bolthead while holding the head tube with the left hand.\n3. Tighten all three bolts until the drill clicks.\n4. Put drill back into storage position."
+    },
+	{
+      "clipname": "CLIP13",
+      "animated_parts": [ "" ],
+      "instruction": "1. <b><u>Grab Item E: Slide Clip–Plastic</b></u> with right hand and slide into position on the slide bracket.\n2. <b><u>Grab Item F: M6x8 Flat Head Capscrew</b></u> with right hand and place in to hole.\n3. Grab M6 allen wrench with right hand and tighten until head of capscrew is flush with front surface."
+    },
+	{
+      "clipname": "CLIP14",
+      "animated_parts": [ "" ],
+      "instruction": "1. Activate slide cylinder with left hand and rotate headtube with right hand. Make sure the slide cylinder clicks into the open and closed position. If it does not function properly, adjust <b><u>Item F: M6x8 Flat Head Capscrew</b></u>."
+    },
+    {
+      "clipname": "CLIP15",
+      "animated_parts": [ "" ],
+      "instruction": "Station 2 assembly complete"
+    }
+  ]
+}
